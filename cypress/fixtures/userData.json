@@ -1,0 +1,30 @@
+{
+  "user01": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "user02": {
+    "username": "locked_out_user",
+    "password": "secret_sauce"
+  },
+  "user03": {
+    "username": "problem_user",
+    "password": "secret_sauce"
+  },
+  "user04": {
+    "username": "performance_glitch_user",
+    "password": "secret_sauce"
+  },
+  "user05": {
+    "username": "error_user",
+    "password": "secret_sauce"
+  },
+  "user06": {
+    "username": "visual_user",
+    "password": "secret_sauce"
+  },
+  "user07": {
+    "username": "123",
+    "password": "123"
+  }
+}
