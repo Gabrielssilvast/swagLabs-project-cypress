@@ -6,11 +6,9 @@ describe("Sauce Labs: E2E Users", () => {
 
     cy.addBackpack();
 
-    cy.addJacket();
+    cy.verifyProductListProblemUser();
 
-    cy.verifyProductList();
-
-    cy.checkoutProducts();
+    cy.checkoutProductsProblemUser();
 
     cy.logout();
   });
