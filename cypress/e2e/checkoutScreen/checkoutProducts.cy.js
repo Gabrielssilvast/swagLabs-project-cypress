@@ -1,4 +1,4 @@
-describe("Sauce Labs: Products", () => {
+describe("Sauce Labs: Products.", () => {
   it("Adding produts", () => {
     cy.loginStandartUser();
 
