@@ -22,7 +22,7 @@
    ```bash
    npx cypress open
 
-3. **Command to run Cypress in headless mode**
+3. **Command to run Cypress in headless mode:**
    ```bash
    npx cypress run
 
